@@ -2,7 +2,7 @@
  * 
  *      filename    :   demo.c
  *      author      :   15359598362@163.com
- *      date        :   2024/03/13
+ *      date        :   2024/03/14
  *      funtion     :   基于温湿度传感器的自动检测的自动灌溉
  *      note        :   当温度超过阈值或湿度低于阈值时，自动控制水泵启停
  *      COpyRight   :   2024-2025   15359598362@163.com    All Rights Reserved.
